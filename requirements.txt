@@ -1,7 +1,8 @@
-typing_extensions==4.12.2
-pydantic==2.9.2
-langchain==0.3.1
-langchain-openai==0.2.1
-langchain-community==0.3.1
-langchain-core==0.3.7
-langgraph==0.2.31
+typing_extensions
+pydantic
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langgraph
+langgraph-checkpoint-sqlite
